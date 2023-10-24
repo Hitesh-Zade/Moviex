@@ -6,7 +6,7 @@ import { getApiConfiguration, getGenres } from "./store/homeSlice";
 import { fetchDataFromApi } from "./utils/api";
 
 import Header from "./components/Header/header";
-import Footer from "./components/footer/footer";
+import Footer from "./components/Footer/Footer";
 import Home from "./pages/home/Home";
 import Details from "./pages/details/Details";
 import SearchResult from "./pages/searchResult/SearchResult";
